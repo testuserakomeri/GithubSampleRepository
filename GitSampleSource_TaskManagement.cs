@@ -99,10 +99,10 @@ namespace GitHubSampleApplication
             Console.Clear();
             Console.WriteLine("--- タスクの新規追加 ---");
 
-            Console.Write("タイトル: ");
+            Console.Write("タイトル: タスク管理のタイトルを追加します。");
             string title = Console.ReadLine();
 
-            Console.Write("詳細説明: ");
+            Console.Write("詳細説明: タスク管理の詳細説明を追加します。");
             string description = Console.ReadLine();
 
             if (string.IsNullOrWhiteSpace(title))
