@@ -41,8 +41,8 @@ namespace GitHubSampleApplication
             Console.WriteLine("==================================================");
             Console.WriteLine("        GitHub 検証用 タスク管理システム (v1.0)   ");
             Console.WriteLine("==================================================");
-            Console.WriteLine("1) 登録されているタスクの一覧を表示します");
-            Console.WriteLine("2) 新しいタスクをシステムに追加します");
+            Console.WriteLine("1) [VEIW] タスク一覧を表示");
+            Console.WriteLine("2) [ADD] 新規タスクを追加");
             Console.WriteLine("3) 選択したタスクを完了状態に更新します");
             Console.WriteLine("4) システムを安全に終了します");
             Console.WriteLine("==================================================");
