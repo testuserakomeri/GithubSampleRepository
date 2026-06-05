@@ -43,8 +43,8 @@ namespace GitHubSampleApplication
             Console.WriteLine("==================================================");
             Console.WriteLine("1) [VEIW] タスク一覧を表示");
             Console.WriteLine("2) [ADD] 新規タスクを追加");
-            Console.WriteLine("3) [DONE] タスクを完了にする");
-            Console.WriteLine("4) [EXIT] アプリを終了する");
+            Console.WriteLine("3) 選択したタスクを完了状態に更新します");
+            Console.WriteLine("4) システムを安全に終了します");
             Console.WriteLine("==================================================");
             Console.Write("メニュー番号を選択してください: ");
 
